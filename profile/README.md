@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="MAC-C Training Banner" width="100%" />
+  <img src="../assets/banner.png" alt="MAC-C Training Banner" width="100%" />
   
   **Formación Laboral Avanzada y Consultoría Tecnológica Especializada**
   
