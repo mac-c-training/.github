@@ -4,7 +4,7 @@
   **Formación Laboral Avanzada y Consultoría Tecnológica Especializada**
   
   [![Website](https://img.shields.io/badge/Web-mac--c--training.github.io-0A66C2?style=flat-square)](https://www.macctraining.cl/)
-  [![Email](https://img.shields.io/badge/Contacto-carlos.tapia.macc%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:carlos.tapia@macctraining.cl)
+  [![Email](https://img.shields.io/badge/Contacto-carlos.tapia%40macctraining.cl-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:carlos.tapia@macctraining.cl)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-MAC--C_Training-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/macctraining)
   [![Location](https://img.shields.io/badge/Ubicación-Talca%2C_Chile-informational?style=flat-square)](https://maps.google.com/?q=Talca,+Chile)
 </div>
