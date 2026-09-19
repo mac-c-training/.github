@@ -3,8 +3,8 @@
   
   **Formación Laboral Avanzada y Consultoría Tecnológica Especializada**
   
-  [![Website](https://img.shields.io/badge/Web-mac--c--training.github.io-0A66C2?style=flat-square)](https://mac-c-training.github.io/macc-training-landing)
-  [![Email](https://img.shields.io/badge/Contacto-carlos.tapia.macc%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:carlos.tapia.macc@gmail.com)
+  [![Website](https://img.shields.io/badge/Web-mac--c--training.github.io-0A66C2?style=flat-square)](https://www.macctraining.cl/)
+  [![Email](https://img.shields.io/badge/Contacto-carlos.tapia.macc%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:carlos.tapia@macctraining.cl)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-MAC--C_Training-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/macctraining)
   [![Location](https://img.shields.io/badge/Ubicación-Talca%2C_Chile-informational?style=flat-square)](https://maps.google.com/?q=Talca,+Chile)
 </div>
@@ -72,6 +72,6 @@ En **MAC-C Training** transformamos la capacitación técnica tradicional en hab
 
 ¿Buscas actualizar las competencias de tu equipo técnico o implementar una solución de software/datos?
 
-* 🌐 **Sitio Web:** [mac-c-training.github.io/macc-training-landing](https://mac-c-training.github.io/macc-training-landing)
-* ✉️ **Correo Directo:** [carlos.tapia.macc@gmail.com](mailto:carlos.tapia.macc@gmail.com)
+* 🌐 **Sitio Web:** [https://www.macctraining.cl/](https://www.macctraining.cl/)
+* ✉️ **Correo Directo:** [carlos.tapia@macctraining.cl](carlos.tapia@macctraining.cl)
 * 📍 **Base Operativa:** Talca, Región del Maule, Chile *(Cobertura remota a nivel nacional y LATAM)*
